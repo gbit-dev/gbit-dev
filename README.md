@@ -1,68 +1,50 @@
-<div align="center">
-  <img src="./header.png" width="100%" alt="Banner do Portfólio" />
-</div>
+# 💫 About Me:
 
-<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
-<h3 align="center">Desenvolvedor Apaixonado por Automação e IA</h3>
+Hi! 👋 My name is Gabriel, I'm a developer passionate about automation, AI, and backend technologies. I love building efficient workflows and exploring new tools like n8n and localized AI models.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gbit-dev&label=Visualizacoes&color=7938d2&style=flat-square" alt="Visualizações" />
-  <a href="https://github.com/gbit-dev">
-    <img src="https://img.shields.io/github/followers/gbit-dev?label=Seguidores&style=flat-square&color=7938d2" alt="Seguidores" />
-  </a>
-</p>
+### 💻 Technical Skills:
+
+**Backend & AI:** Python, Go, Node.js, n8n Automation, Machine Learning / AI Agents
+
+**Databases & Data Tools:** SQL, MongoDB, Redis, PostgreSQL
+
+**Cloud & Tools:** Docker, Git, VS Code, GitHub Actions, Linux
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 Projects & Experience:
 
-Sou um desenvolvedor focado em criar soluções eficientes e bonitas. Adoro explorar novas tecnologias, especialmente no mundo da automação com n8n e Inteligência Artificial.
+- **AI Automation Workflows**: Building complex agents and automation using n8n and specialized LLMs.
+- **Backend Systems**: Designing scalable APIs and microservices for data processing.
+- **Personal Projects**: Exploring the intersection of productivity tools and artificial intelligence.
 
-- 🔭 Atualmente trabalhando em **projetos de automação com IA**.
-- 🌱 Aprendendo mais sobre **Deep Learning e Agentes Autônomos**.
-- 💬 Pergunte-me sobre **n8n, Python, e automação de workflows**.
-- 📫 Como me encontrar: **gabrielluizprf@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/gbit-dev/)
+### 🌱 Currently:
 
----
+- Enhancing my skills in **Deep Learning** and **Autonomous Agents**.
+- Exploring new possibilities with **n8n v1.0** and custom nodes.
+- Building projects that combine **functionality, intelligence, and a great user experience**.
 
-### 🛠️ Tech Stack
+### 📫 Connect with me:
 
-<div align="center">
-
-**Linguagens**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-**Frontend & Mobile**<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Automação & Ferramentas**<br>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
+**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) | **LinkedIn:** [gbit-dev](https://www.linkedin.com/in/gbit-dev/)
 
 ---
 
-### 📊 Estatísticas do GitHub
+# 💻 Tech Stack:
 
-<div align="center">
-  <a href="https://github.com/gbit-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<br>
 
----
-
-<div align="center">
-  <i>"A simplicidade é o último grau de sofisticação."</i>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" alt="Gengar GIF" />
 </div>
