@@ -7,7 +7,7 @@
 
 ### 💻 Sobre Mim
 
-Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor focado em automação, integração com IA e tecnologias web. Gosto de criar fluxos de trabalho eficientes e explorar novas formas de utilizar modelos de linguagem para resolver problemas.
+Olá! 👋 Eu sou o Gabriel (**gbit-dev**). Sou um desenvolvedor focado em automação, integração com IA e tecnologias web. Gosto de criar fluxos de trabalho eficientes e explorar novas formas de utilizar modelos de linguagem para resolver problemas.
 
 - ⚙️ Especialista em automação de processos com **n8n**.
 - 🤖 Integração de sistemas com **Inteligência Artificial**.
@@ -26,17 +26,25 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor foca
   <img src="https://img.shields.io/badge/Integração--IA-7938d2?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="100%" />
+
 ---
 
-### 📊 Estatísticas
+### 📊 Conquistas e Atividade
 
-![Estatísticas de Gabriel](https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gbit-dev&theme=dracula&no-bg=true&column=4" alt="Troféus do GitHub" />
+</div>
 
-![Linguagens de Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=tokyonight)
+<br>
 
-![Sequência de Gabriel](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=tokyonight)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=gbit-dev&theme=dracula&area=true&hide_border=true&bg_color=00000000)
 
+<br>
 
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=tokyonight&hide_border=true)
 
 ---
 
