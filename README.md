@@ -31,13 +31,14 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor foca
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=dracula&hide_border=true&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=dracula" alt="GitHub Streak" />
 </div>
+
 
 ---
 
