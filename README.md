@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" />
-  <h1>Gabriel Luiz</h1>
 </div>
 
 ---
