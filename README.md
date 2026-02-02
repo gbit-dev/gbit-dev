@@ -16,7 +16,7 @@ Olá! 👋 Meu nome é Gabriel, sou um desenvolvedor focado em automação, inte
 
 - **Automações com n8n**: Criação de fluxos para conectar ferramentas e otimizar processos.
 - **Projetos com IA**: Integração de modelos de linguagem (LLMs) em aplicações e fluxos de trabalho.
-- **Desenvolvimento Web**: Criação de sites e interfaces simples usando HTML, CSS e JS.
+- **Desenvolvimento Web**: Criação de sites e interfaces usando HTML, CSS e JS.
 
 ### 🌱 Atualmente:
 
