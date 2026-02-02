@@ -7,7 +7,7 @@
 
 ### 👻 Sobre Mim
 
-Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor que habita as sombras da automação, especializado em integrar **IAs**, dominar o **n8n** e construir soluções web eficientes. Assim como um Gengar, gosto de ser ágil, surpreendente e eficaz.
+Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor que habita as sombras da automação, especializado em integrar **IAs**, dominar o **n8n** e construir soluções web eficientes. Assim como um Gengar, gosto de ser ágil, surpreendente e eficaz.
 
 - 🔮 Especialista em **Automação de Processos** com n8n.
 - 🧠 Integrando o mundo real com **Inteligência Artificial**.
