@@ -26,8 +26,7 @@ Hi! 👋 My name is Gabriel, I'm a developer passionate about automation, AI, an
 
 ### 📫 Connect with me:
 
-**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) | **LinkedIn:** [gbit-dev](https://www.linkedin.com/in/gbit-dev/)
-
+**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) 
 ---
 
 # 💻 Tech Stack:
