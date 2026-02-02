@@ -46,7 +46,7 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor que 
 
 - 💜 **Automações Inteligentes**: Transformando tarefas manuais em fluxos automáticos.
 - 🌑 **IA Generativa**: Criando ferramentas que pensam e agem.
-- 👾 **Web Design**: Interfaces focadas em performance.
+- 👾 **Web Design**: Interfaces focadas em qualidade e performance.
 
 ### 📫 Contato Espectral
 
