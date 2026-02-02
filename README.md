@@ -48,7 +48,7 @@ Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor focado em automação, integra
 
 ### 📫 Contato
 
-**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) | **LinkedIn:** [gbit-dev](https://www.linkedin.com/in/gbit-dev/)
+**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com)
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif" width="60" />
