@@ -6,9 +6,9 @@
 <h3 align="center">Desenvolvedor Apaixonado por Automação e IA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielluizsf&label=Visualizacoes&color=7938d2&style=flat-square" alt="Visualizações" />
-  <a href="https://github.com/gabrielluizsf">
-    <img src="https://img.shields.io/github/followers/gabrielluizsf?label=Seguidores&style=flat-square&color=7938d2" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=gbit-dev&label=Visualizacoes&color=7938d2&style=flat-square" alt="Visualizações" />
+  <a href="https://github.com/gbit-dev">
+    <img src="https://img.shields.io/github/followers/gbit-dev?label=Seguidores&style=flat-square&color=7938d2" alt="Seguidores" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e bonitas. Adoro expl
 - 🔭 Atualmente trabalhando em **projetos de automação com IA**.
 - 🌱 Aprendendo mais sobre **Deep Learning e Agentes Autônomos**.
 - 💬 Pergunte-me sobre **n8n, Python, e automação de workflows**.
-- 📫 Como me encontrar: **gabrielluizprf@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/gabrielluizsf/)
+- 📫 Como me encontrar: **gabrielluizprf@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/gbit-dev/)
 
 ---
 
@@ -51,14 +51,14 @@ Sou um desenvolvedor focado em criar soluções eficientes e bonitas. Adoro expl
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/gabrielluizsf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluizsf&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/gbit-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluizsf&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
