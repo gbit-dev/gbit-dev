@@ -1,22 +1,21 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" />
-  <h1>💜 Shadow Developer | Gengar Mode 💜</h1>
+  <h1>Gabriel Luiz</h1>
 </div>
 
 ---
 
-### 👻 Sobre Mim
+### 💫 Sobre Mim
 
-Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor que habita as sombras da automação, especializado em integrar **IAs**, dominar o **n8n** e construir soluções web eficientes. Assim como um Gengar, gosto de ser ágil, surpreendente e eficaz.
+Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor focado em automação, integração com IA e tecnologias web. Gosto de criar fluxos de trabalho eficientes e explorar novas formas de utilizar modelos de linguagem para resolver problemas.
 
-- 🔮 Especialista em **Automação de Processos** com n8n.
-- 🧠 Integrando o mundo real com **Inteligência Artificial**.
-- 🕸️ Construindo a web com **HTML, CSS, JS e Python**.
-- 🌑 Buscando sempre a eficiência máxima no código.
+- 🔮 Especialista em automação de processos com **n8n**.
+- 🧠 Integração de sistemas com **Inteligência Artificial**.
+- 🕸️ Desenvolvimento web com **HTML, CSS, JavaScript e Python**.
 
 ---
 
-### 🛠️ Minha Stack
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,11 +28,11 @@ Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor que habita as sombras da autom
 
 ---
 
-### 📊 Estatísticas das Sombras
+### 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=gbit-dev&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&count_private=true" />
 </div>
 
 <div align="center">
@@ -42,15 +41,16 @@ Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor que habita as sombras da autom
 
 ---
 
-### 🚀 Projetos & Jornada
+### 🚀 Projetos e Jornada
 
-- 💜 **Automações Inteligentes**: Transformando tarefas manuais em fluxos automáticos.
-- 🌑 **IA Generativa**: Criando ferramentas que pensam e agem.
-- 👾 **Web Design**: Interfaces focadas em qualidade e performance.
+- **Automações**: Transformando tarefas manuais em fluxos automáticos.
+- **IA Generativa**: Criando ferramentas baseadas em inteligência artificial.
+- **Web Design**: Interfaces simples, funcionais e com boa performance.
 
-### 📫 Contato Espectral
+### 📫 Contato
 
-**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com)
+**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) | **LinkedIn:** [gbit-dev](https://www.linkedin.com/in/gbit-dev/)
+
 <div align="right">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif" width="60" />
 </div>
