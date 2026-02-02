@@ -30,13 +30,12 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor foca
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&count_private=true" alt="Estatísticas do GitHub" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Linguagens mais usadas" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=dracula&hide_border=true&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="GitHub Streak" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula)
+
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=dracula)
+
 
 ---
 
