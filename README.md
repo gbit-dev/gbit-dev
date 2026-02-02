@@ -6,7 +6,7 @@
 
 ### 💫 Sobre Mim
 
-Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor focado em automação, integração com IA e tecnologias web. Gosto de criar fluxos de trabalho eficientes e explorar novas formas de utilizar modelos de linguagem para resolver problemas.
+Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor focado em automação, integração com IA e tecnologias web. Gosto de criar fluxos de trabalho eficientes e explorar novas formas de utilizar modelos de linguagem para resolver problemas.
 
 - 🔮 Especialista em automação de processos com **n8n**.
 - 🧠 Integração de sistemas com **Inteligência Artificial**.
