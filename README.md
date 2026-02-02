@@ -5,7 +5,7 @@
 
 ---
 
-### 👻 Sobre Mim (Shadow Side)
+### 👻 Sobre Mim
 
 Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor que habita as sombras da automação, especializado em integrar **IAs**, dominar o **n8n** e construir soluções web eficientes. Assim como um Gengar, gosto de ser ágil, surpreendente e eficaz.
 
