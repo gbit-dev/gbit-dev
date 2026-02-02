@@ -16,7 +16,7 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor que 
 
 ---
 
-### 🛠️ Minha Stack (Purple Theme)
+### 🛠️ Minha Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" />
