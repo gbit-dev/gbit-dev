@@ -26,8 +26,7 @@ Olá! 👋 Meu nome é Gabriel, sou um desenvolvedor focado em automação, inte
 
 ### 📫 Como me encontrar:
 
-**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) | **LinkedIn:** [gbit-dev](https://www.linkedin.com/in/gbit-dev/)
-
+**GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) 
 ---
 
 # 💻 Ferramentas & Tecnologias:
