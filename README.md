@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" />
+  <h1>Gabriel Luiz</h1>
 </div>
 
 ---
@@ -30,8 +31,8 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor foca
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&count_private=true" />
 </div>
 
 <div align="center">
