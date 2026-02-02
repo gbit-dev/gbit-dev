@@ -1,47 +1,44 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 
-Hi! 👋 My name is Gabriel, I'm a developer passionate about automation, AI, and backend technologies. I love building efficient workflows and exploring new tools like n8n and localized AI models.
+Olá! 👋 Meu nome é Gabriel, sou um desenvolvedor focado em automação, integração com IA e tecnologias web. Adoro criar fluxos de trabalho eficientes e explorar o potencial das IAs para resolver problemas do dia a dia.
 
-### 💻 Technical Skills:
+### 💻 Habilidades Técnicas:
 
-**Backend & AI:** Python, Go, Node.js, n8n Automation, Machine Learning / AI Agents
+**Frontend:** HTML5, CSS3, JavaScript (básico)
 
-**Databases & Data Tools:** SQL, MongoDB, Redis, PostgreSQL
+**Automação & IA:** n8n, Integração com APIs de IA, Python (básico)
 
-**Cloud & Tools:** Docker, Git, VS Code, GitHub Actions, Linux
+**Ferramentas:** Git, GitHub, VS Code
 
 ---
 
-### 🚀 Projects & Experience:
+### 🚀 Projetos & Experiência:
 
-- **AI Automation Workflows**: Building complex agents and automation using n8n and specialized LLMs.
-- **Backend Systems**: Designing scalable APIs and microservices for data processing.
-- **Personal Projects**: Exploring the intersection of productivity tools and artificial intelligence.
+- **Automações com n8n**: Criação de fluxos para conectar ferramentas e otimizar processos.
+- **Projetos com IA**: Integração de modelos de linguagem (LLMs) em aplicações e fluxos de trabalho.
+- **Desenvolvimento Web**: Criação de sites e interfaces simples usando HTML, CSS e JS.
 
-### 🌱 Currently:
+### 🌱 Atualmente:
 
-- Enhancing my skills in **Deep Learning** and **Autonomous Agents**.
-- Exploring new possibilities with **n8n v1.0** and custom nodes.
-- Building projects that combine **functionality, intelligence, and a great user experience**.
+- Aprimorando meus conhecimentos em **Python aplicado a dados e automação**.
+- Explorando novas formas de utilizar **Agentes de IA** no n8n.
+- Focado em construir projetos que sejam **funcionais e inteligentes**.
 
-### 📫 Connect with me:
+### 📫 Como me encontrar:
 
 **GitHub:** [gbit-dev](https://github.com/gbit-dev) | **Email:** [gabrielluizprf@gmail.com](mailto:gabrielluizprf@gmail.com) | **LinkedIn:** [gbit-dev](https://www.linkedin.com/in/gbit-dev/)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Ferramentas & Tecnologias:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AIBadge](https://img.shields.io/badge/Integração--IA-7938d2?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
