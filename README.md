@@ -30,11 +30,12 @@ Olá! 👋 Eu sou o Gabriel (atualmente **gbit-dev**). Sou um desenvolvedor foca
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas de Gabriel](https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=dracula)
+![Linguagens de Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=tokyonight)
 
-![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=dracula)
+![Sequência de Gabriel](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=tokyonight)
+
 
 
 ---
