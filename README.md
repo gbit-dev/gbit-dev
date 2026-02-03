@@ -84,6 +84,6 @@
     <a href="https://www.linkedin.com/in/gbit-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
   <div align="right">
-  <img src="https://media.tenor.com/r6pWzVx12k8AAAAj/negascott-negascottreal.gif" width="120" />
+  <img src="https://i.pinimg.com/originals/68/01/c9/6801c933d4e95a27b1dbd11d8ef99460.gif" width="120" />
 </div>
 </div>
