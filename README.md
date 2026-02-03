@@ -45,7 +45,7 @@ Olá! 👋 Eu sou o Gabriel. Sou um desenvolvedor focado em automação, integra
 
 - 🛠️ **Automações**: Transformando tarefas manuais em fluxos automáticos.
 - 💡 **IA Generativa**: Criando ferramentas baseadas em inteligência artificial.
-- 🎨 **Web Design**: Interfaces simples, funcionais e com boa performance.
+- 🎨 **Web Design**: Interfaces funcionais, com qualidade e com boa performance.
 
 ### 📫 Contato
 
