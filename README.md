@@ -75,8 +75,6 @@
 
 <br id="contact">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="100%" />
-
 <div align="center">
   <h3>Contrate-me ou diga Olá!</h3>
   <p>
