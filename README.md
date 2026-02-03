@@ -83,7 +83,7 @@
     <a href="mailto:gabrielluizprf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/gbit-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
-    <div align="center">
-  <img src="https://i.pinimg.com/originals/68/01/c9/6801c933d4e95a27b1dbd11d8ef99460.gif" width="120" />
+  <div align="center">
+  <img src="https://media.tenor.com/yv-M6z80D7UAAAAC/negascott-scott-pilgrim.gif" width="120" />
 </div>
 </div>
