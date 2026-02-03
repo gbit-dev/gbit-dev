@@ -84,6 +84,6 @@
     <a href="https://www.linkedin.com/in/gbit-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
   <div align="center">
-  <img src="https://media.giphy.com/media/pDsU61ggAnS36/giphy.gif" width="120" />
+  <img src="https://i.giphy.com/pDsU61ggAnS36.gif" width="120" />
 </div>
 </div>
