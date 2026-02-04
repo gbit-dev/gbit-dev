@@ -1,0 +1,59 @@
+:root {
+  --bg-button: #1F2933;       /* botões números */
+  --border-button: solid 1px #020617;
+  --op-color: #A78BFA;
+  --op-active: #8B5CF6;
+  --text-color: #E5E7EB;
+}
+
+.button {
+  font-size: 1.4rem;
+  background-color: #1F2933;
+  color: #E5E7EB;
+
+  border: none;
+  border-radius: 12px;
+
+  cursor: pointer;
+  transition: transform 0.1s ease, filter 0.1s ease;
+}
+
+
+/* Hover */
+.button:hover {
+  filter: brightness(1.15);
+}
+
+/* Active (clique) */
+.button:active {
+  transform: scale(0.97);
+  filter: brightness(0.9);
+}
+
+/* Tamanhos */
+.button.double {
+  grid-column: span 2;
+}
+
+.button.triple {
+  grid-column: span 3;
+}
+
+/* Operações */
+.button.operation {
+  background-color: #A78BFA;
+  color: #020617;
+}
+
+.button.operation:hover {
+  filter: brightness(1.1);
+}
+
+.button.operation:active {
+  background-color: var(--op-active);
+}
+
+.button.equal {
+  background-color: #F472B6;
+  color: #020617;
+}
