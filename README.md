@@ -84,6 +84,6 @@
     <a href="https://www.linkedin.com/in/gbit-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
   <div align="center">
-    <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="100" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-mega.gif" width="200" />
   </div>
 </div>
