@@ -2,7 +2,7 @@
   <code>Home</code> &nbsp; 
   <code><a href="#about-me">Sobre Mim</a></code> &nbsp; 
   <code><a href="#skills">Skills</a></code> &nbsp; 
-  <code><a href="#experience">Experiência</a></code> &nbsp; 
+  <code><a href="#projects">Projetos</a></code> &nbsp; 
   <code><a href="#contact">Contato</a></code>
 </div>
 
@@ -47,28 +47,52 @@
   </tr>
 </table>
 
+<br id="projects">
+
+# Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Automação</h4>
+      <p>Fluxos, integrações e experimentos com n8n e APIs.</p>
+      <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>IA</h4>
+      <p>Estudos e projetos com Python, LLMs e agentes inteligentes.</p>
+      <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Web</h4>
+      <p>Interface do perfil e base visual para o portfólio no GitHub.</p>
+      <a href="https://github.com/gbit-dev/gbit-dev">Ver repositório</a>
+    </td>
+  </tr>
+</table>
+
 <br id="experience">
 
-# Experience
+# Áreas de Atuação
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2026-7B2CBF?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Atual-7B2CBF?style=for-the-badge&logoColor=white" /><br>
       <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="2" height="60" />
     </td>
     <td>
-      <strong>Desenvolvedor de Automações & IA</strong><br>
-      Foco em integração de sistemas e criação de agentes inteligentes.
+      <strong>Automações & IA</strong><br>
+      Estudo e construção de fluxos com n8n, integrações via API, scripts em Python e agentes inteligentes.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2025-4B0082?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Em evolução-4B0082?style=for-the-badge&logoColor=white" />
     </td>
     <td>
-      <strong>Desenvolvedor Full Stack Júnior</strong><br>
-      Criação de interfaces modernas e funcionais com foco em performance.
+      <strong>Web & Produto Digital</strong><br>
+      Criação de interfaces, páginas e pequenas ferramentas enquanto aprofundo JavaScript, HTML, CSS e boas práticas de projeto.
     </td>
   </tr>
 </table>
