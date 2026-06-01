@@ -64,9 +64,9 @@
       <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
     </td>
     <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
-      <h4>Web</h4>
-      <p>Interface do perfil e base visual para o portfólio no GitHub.</p>
-      <a href="https://github.com/gbit-dev/gbit-dev">Ver repositório</a>
+      <h4>Web & Design</h4>
+      <p>Projetos premiados e interfaces ricas com <b>React</b>, <b>Vite</b> e <b>GSAP</b>.</p>
+      <a href="https://github.com/gbit-dev/lumina-agency">Lumina Agency</a> | <a href="https://github.com/gbit-dev/gbit-dev/tree/main/projetos">Ver Todos</a>
     </td>
   </tr>
 </table>
