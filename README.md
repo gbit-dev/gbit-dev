@@ -6,6 +6,22 @@
   <code><a href="#contact">Contato</a></code>
 </div>
 
+<p align="center">
+
+
+  <!-- <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%">  -->
+   
+ <!--  ![Alt text](https://github.com/InterCentury/InterCentury/blob/main/img/neonview.jpg?raw=true) -->
+
+  <!-- <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/01_anime.gif?raw=true" width="100%"> -->
+  <!--   <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/wuwa.gif?raw=true" width="100%"> -->
+  <!--  <img src= "https://github.com/TokyoNet/WallScape/blob/main/gifs/anime-girl-eyes-rose-bloom-moewalls-com%20(2)%20(2)%20(2).gif?raw=true" width="100%"> -->
+
+  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+  
+  <!--  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%"> -->
+</p>
+
 # 🧑‍💻 About Me
 
 <table>
