@@ -2,12 +2,18 @@
 
   <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
   
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" />
+  
   # 🚀 Gabriel Luiz
   
   *Automation Developer | AI Enthusiast | Web Creator*
   
   [![GitHub followers](https://img.shields.io/github/followers/gbit-dev?style=social)](https://github.com/gbit-dev)
   [![GitHub stars](https://img.shields.io/github/stars/gbit-dev?style=social)](https://github.com/gbit-dev)
+  
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Brazil-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20AI-purple?style=flat-square" />
   
 </div>
 
@@ -34,63 +40,135 @@ const gabriel = {
 
 ## 🧠 Know About Me
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 > *"Code is never finished. It only becomes slightly less terrible over time."*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="120" />
+</div>
 
 👨‍💻 Sou um desenvolvedor focado em automação e integração de Inteligência Artificial, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀
 
 ⚡ Quando não estou construindo fluxos no n8n ou desenvolvendo scripts em Python, estou explorando o potencial da IA generativa e do design moderno. Estou sempre em busca de projetos que me desafiem a aprender e crescer. 🌟
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
 ### ⚙️ Automação
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-7B2CBF?style=flat-square" />
-<img src="https://img.shields.io/badge/Logic-4B0082?style=flat-square" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/APIs-7B2CBF?style=for-the-badge" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Logic-4B0082?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ### 🤖 Inteligência Artificial
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=flat-square" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ### 🎨 Web Design
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ---
 
 ## 🚀 Top Projects (built to avoid manual labor)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 <table width="100%">
   <tr>
-    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+    <td width="33%" align="center" style="border: 3px solid #7B2CBF; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
       <h4>⚙️ Automação</h4>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" />
+      </div>
       <p>Fluxos, integrações e experimentos com n8n e APIs.</p>
       <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
     </td>
-    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+    <td width="33%" align="center" style="border: 3px solid #412991; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #412991 0%, #7B2CBF 100%);">
       <h4>🤖 IA</h4>
+      <div align="center">
+        <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-mega.gif" width="80" />
+      </div>
       <p>Estudos e projetos com Python, LLMs e agentes inteligentes.</p>
       <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
     </td>
-    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+    <td width="33%" align="center" style="border: 3px solid #E34F26; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #E34F26 0%, #F7DF1E 100%);">
       <h4>🎨 Web & Design</h4>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" />
+      </div>
       <p>Projetos premiados e interfaces ricas com <b>React</b>, <b>Vite</b> e <b>GSAP</b>.</p>
       <a href="https://github.com/gbit-dev/lumina-agency">Lumina Agency</a> | <a href="https://github.com/gbit-dev/gbit-dev/tree/main/projetos">Ver Todos</a>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 ---
 
 ## 📊 Áreas de Atuação
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <table>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Atual-7B2CBF?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60" /><br>
       <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="2" height="60" />
     </td>
     <td>
@@ -100,7 +178,8 @@ const gabriel = {
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Em evolução-4B0082?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Em evolução-4B0082?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-mega.gif" width="60" />
     </td>
     <td>
       <strong>🎨 Web & Produto Digital</strong><br>
@@ -109,18 +188,31 @@ const gabriel = {
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
 ---
 
 ## 📬 Let's Connect
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<div align="center">
   <h3>Contrate-me ou diga Olá!</h3>
   <p>
     <a href="mailto:gabrielluizprf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/gbit-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
   <div align="center">
     <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-mega.gif" width="250" />
   </div>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 ---
@@ -131,4 +223,14 @@ const gabriel = {
 
 <div align="center">
   <p>💜 Every commit is a small apology to my future self 💜</p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-mega.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
