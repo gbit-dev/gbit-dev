@@ -126,9 +126,5 @@ const gabriel = {
 ---
 
 <div align="center">
-  <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
-</div>
-
-<div align="center">
   <p>💜 Every commit is a small apology to my future self 💜</p>
 </div>
