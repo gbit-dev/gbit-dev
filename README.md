@@ -15,7 +15,7 @@
 ```javascript
 const gabriel = {
   pronouns: "He/Him",
-  location: "Brazil 🇧🇷",
+  location: "Portugal 🇵🇹",
   role: "Automation Developer | AI Enthusiast | Web Creator",
   currently: {
     working: "Automation & AI Integration",
