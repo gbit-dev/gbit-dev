@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ Click here to expand magic
+## ✨ About me
 
 ```javascript
 const gabriel = {
