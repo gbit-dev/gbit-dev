@@ -29,7 +29,9 @@ const gabriel = {
   motto: "If it can be automated, it should be automated"
 };
 ```
-
+<td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="220" />
+</td>
 ---
 
 ## 🧠 Know About Me
