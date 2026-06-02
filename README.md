@@ -12,8 +12,24 @@
   <tr>
     <td width="65%">
       
-      <p>👨‍💻 Sou um desenvolvedor focado em automação e integração de Inteligência Artificial, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀</p>
-      <p>⚡ Quando não estou construindo fluxos no n8n ou desenvolvendo scripts em Python, estou explorando o potencial da IA generativa e do design moderno. Estou sempre em busca de projetos que me desafiem a aprender e crescer. 🌟</p>
+```javascript
+const gabriel = {
+  pronouns: "He/Him",
+  location: "Brazil 🇧🇷",
+  role: "Automation Developer | AI Enthusiast | Web Creator",
+  currently: {
+    working: "Automation & AI Integration",
+    learning: ["n8n", "Python", "LLMs", "React"],
+  },
+  passions: ["Automation", "AI Agents", "Clean Code", "Problem Solving"],
+  funFact: "I turn coffee ☕ into automated workflows",
+  motto: "If it can be automated, it should be automated"
+};
+```
+
+👨‍💻 Sou um desenvolvedor focado em automação e integração de Inteligência Artificial, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀
+
+⚡ Quando não estou construindo fluxos no n8n ou desenvolvendo scripts em Python, estou explorando o potencial da IA generativa e do design moderno. Estou sempre em busca de projetos que me desafiem a aprender e crescer. 🌟
     </td>
     <td width="35%" align="center">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="220" />
