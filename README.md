@@ -2,7 +2,7 @@
 
   <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
   
-  # 🚀 Gabriel Luiz
+  # 👨‍💻 Gabriel Luiz
   
   *Automation Developer | AI Enthusiast | Web Creator*
   
