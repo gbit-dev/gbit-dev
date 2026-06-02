@@ -13,7 +13,7 @@
     <td width="65%">
       
 ```javascript
-const 👨‍💻gabriel = {
+const gabriel = {
   pronouns: "He/Him",
   location: "Brazil 🇧🇷",
   role: "Automation Developer | AI Enthusiast | Web Creator",
