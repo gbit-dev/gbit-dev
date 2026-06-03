@@ -14,7 +14,11 @@
 
 ---
 
-## ✨ About Me
+## ✨ Click here to expand magic
+
+<table>
+<tr>
+<td>
 
 ```javascript
 const gabriel = {
@@ -31,13 +35,18 @@ const gabriel = {
 };
 ```
 
+</td>
+<td align="center" width="200">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 Know About Me
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
-
-<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" />
 
 👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀
 
@@ -149,3 +158,8 @@ const gabriel = {
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+  <p>💜 Every commit is a small apology to my future self 💜</p>
+</div>
