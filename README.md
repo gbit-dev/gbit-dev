@@ -1,111 +1,110 @@
-<div align="center">
-
-# Gabriel Batista
-
-### Web Development • Automation • Open Source
-
-Building web applications, automation workflows and practical solutions.
-
-[Portfolio](https://your-portfolio.com) • [LinkedIn](https://linkedin.com/in/seu-linkedin) • [Email](mailto:seuemail@email.com)
-
+<div align="right">
+  <code>Home</code> &nbsp; 
+  <code><a href="#about-me">Sobre Mim</a></code> &nbsp; 
+  <code><a href="#skills">Skills</a></code> &nbsp; 
+  <code><a href="#projects">Projetos</a></code> &nbsp; 
+  <code><a href="#contact">Contato</a></code>
 </div>
 
----
+# About Me
 
-## About Me
+<table>
+  <tr>
+    <td width="65%">
+      <p>Sou um desenvolvedor focado em automação e integração de Inteligência Artificial, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor.</p>
+      <p>Quando não estou construindo fluxos no n8n ou desenvolvendo scripts em Python, estou explorando o potencial da IA generativa e do design moderno. Estou sempre em busca de projetos que me desafiem a aprender e crescer.</p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="220" />
+    </td>
+  </tr>
+</table>
 
-Passionate about building modern web applications and automation systems.
+<br id="skills">
 
-Currently focused on:
+# Skills & Technologies
 
-- Frontend Development
-- JavaScript Ecosystem
-- React Applications
-- Workflow Automation
-- API Integrations
-- Open Source Projects
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Automação</h4>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/APIs-7B2CBF?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Logic-4B0082?style=flat-square" />
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Inteligência Artificial</h4>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LLMs-7B2CBF?style=flat-square" />
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Web Design</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-I enjoy transforming ideas into real products and continuously improving my skills through hands-on projects.
+<br id="projects">
 
----
+# Projetos em Destaque
 
-## Tech Stack
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Automação</h4>
+      <p>Fluxos, integrações e experimentos com n8n e APIs.</p>
+      <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>IA</h4>
+      <p>Estudos e projetos com Python, LLMs e agentes inteligentes.</p>
+      <a href="https://github.com/gbit-dev/gabrielluizsf">Ver repositório</a>
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 15px;">
+      <h4>Web & Design</h4>
+      <p>Projetos premiados e interfaces ricas com <b>React</b>, <b>Vite</b> e <b>GSAP</b>.</p>
+      <a href="https://github.com/gbit-dev/lumina-agency">Lumina Agency</a> | <a href="https://github.com/gbit-dev/gbit-dev/tree/main/projetos">Ver Todos</a>
+    </td>
+  </tr>
+</table>
 
-### Frontend
+<br id="experience">
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+# Áreas de Atuação
 
-### Tools
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Atual-7B2CBF?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="2" height="60" />
+    </td>
+    <td>
+      <strong>Automações & IA</strong><br>
+      Estudo e construção de fluxos com n8n, integrações via API, scripts em Python e agentes inteligentes.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Em evolução-4B0082?style=for-the-badge&logoColor=white" />
+    </td>
+    <td>
+      <strong>Web & Produto Digital</strong><br>
+      Criação de interfaces, páginas e pequenas ferramentas enquanto aprofundo JavaScript, HTML, CSS e boas práticas de projeto.
+    </td>
+  </tr>
+</table>
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
-![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
-
-### Currently Learning
-
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
----
-
-## Featured Projects
-
-### Weather App
-
-Modern weather forecast application using external APIs.
-
-### React Calculator
-
-Interactive calculator built with React.
-
-### Automation Workflows
-
-Automations and integrations built with n8n.
-
-### Portfolio Website
-
-Personal website showcasing projects and skills.
-
----
-
-## What I'm Working On
-
-- Building production-ready React projects
-- Improving frontend architecture skills
-- Creating automation workflows with n8n
-- Exploring backend development
-- Expanding open-source contributions
-
----
-
-## GitHub Analytics
+<br id="contact">
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbit-dev&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## Philosophy
-
-> Build. Learn. Improve. Repeat.
-
-Every project is an opportunity to learn something new and create something useful.
-
----
-
-<div align="center">
-
-### Let's Connect
-
-Always open to collaborating on interesting projects and learning opportunities.
-
+  <h3>Contrate-me ou diga Olá!</h3>
+  <p>
+    <a href="mailto:gabrielluizprf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  <div align="center">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-mega.gif" width="250" />
+  </div>
 </div>
