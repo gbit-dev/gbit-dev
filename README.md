@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Click here to expand magic
+## ✨ About Me
 
 ```javascript
 const gabriel = {
