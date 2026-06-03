@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/main/gifzin.gif?raw=true" width="100%">
 
 # 👾 Gabriel Luiz
 
