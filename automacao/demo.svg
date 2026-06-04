@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450" width="700" height="450">
+    <rect width="700" height="450" rx="10" ry="10" fill="#1e1e1e"/>
+    <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+    <text x="400" y="24" fill="#a0a0a0" font-family="monospace" font-size="14" text-anchor="middle">bash - smart_briefing.py</text>
+    <g font-family="Consolas, Monaco, monospace" font-size="14" fill="#e0e0e0">
+        <text x="20" y="60" fill="#56b6c2"> python smart_briefing.py</text>
+        <text x="20" y="80" fill="#e0e0e0">🚀 Iniciando geração do Smart Briefing...</text>
+        <text x="20" y="100" fill="#e0e0e0">🌤️ Buscando dados do clima...</text>
+        <text x="20" y="120" fill="#e0e0e0">📰 Buscando notícias de tecnologia...</text>
+        <text x="20" y="140" fill="#27c93f"> ✅ Briefing gerado com sucesso: briefing_2023-10-25.md</text>
+        <text x="20" y="160" fill="#a0a0a0"></text>
+        <text x="20" y="180" fill="#56b6c2"> cat briefing_2023-10-25.md</text>
+        <text x="20" y="200" fill="#e0e0e0"># 🌅 Smart Briefing Matinal - 25/10/2023</text>
+        <text x="20" y="220" fill="#e0e0e0"></text>
+        <text x="20" y="240" fill="#e0e0e0">## 🌤️ Previsão do Tempo</text>
+        <text x="20" y="260" fill="#ff5f56"> **Máxima:** 28°C</text>
+        <text x="20" y="280" fill="#ff5f56"> **Mínima:** 18°C</text>
+        <text x="20" y="300" fill="#e0e0e0"></text>
+        <text x="20" y="320" fill="#e0e0e0">## 💻 Top Tech News (HackerNews)</text>
+        <text x="20" y="340" fill="#e0e0e0">1. Show HN: I built a new open-source AI agent framework</text>
+        <text x="20" y="360" fill="#e0e0e0">2. PostgreSQL 16 Released</text>
+        <text x="20" y="380" fill="#e0e0e0">3. Why we moved away from microservices</text>
+    </g>
+</svg>

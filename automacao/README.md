@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automação-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+![Demonstração do Smart Briefing](demo.svg)
+
 Um script elegante em Python focado em automação de rotina. Ele consome dados de múltiplas APIs (Clima + HackerNews) e compila um resumo matinal diário focado em tecnologia em formato Markdown.
 
 ## 🚀 Como funciona

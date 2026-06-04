@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" width="700" height="500">
+    <rect width="700" height="500" rx="10" ry="10" fill="#1e1e1e"/>
+    <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+    <text x="400" y="24" fill="#a0a0a0" font-family="monospace" font-size="14" text-anchor="middle">bash - ai_code_reviewer.py</text>
+    <g font-family="Consolas, Monaco, monospace" font-size="14" fill="#e0e0e0">
+        <text x="20" y="60" fill="#56b6c2"> python ai_code_reviewer.py meu_script.py</text>
+        <text x="20" y="80" fill="#e0e0e0">🤖 Analisando o seu código... Aguarde.</text>
+        <text x="20" y="100" fill="#a0a0a0"></text>
+        <text x="20" y="120" fill="#e0e0e0">==================================================</text>
+        <text x="20" y="140" fill="#ffbd2e"> ✨ RESULTADO DO CODE REVIEW ✨</text>
+        <text x="20" y="160" fill="#e0e0e0">==================================================</text>
+        <text x="20" y="180" fill="#e0e0e0"></text>
+        <text x="20" y="200" fill="#ffbd2e">*1. Visão Geral**</text>
+        <text x="20" y="220" fill="#e0e0e0">Este script Python é um servidor web simples utilizando FastAPI.</text>
+        <text x="20" y="240" fill="#e0e0e0"></text>
+        <text x="20" y="260" fill="#ffbd2e">*2. Pontos Positivos**</text>
+        <text x="20" y="280" fill="#27c93f"> O código está limpo, bem indentado e utiliza type hints adequadamente.</text>
+        <text x="20" y="300" fill="#27c93f"> As rotas estão bem definidas com verbos HTTP corretos.</text>
+        <text x="20" y="320" fill="#e0e0e0"></text>
+        <text x="20" y="340" fill="#ffbd2e">*3. Melhorias de Refatoração / Clean Code**</text>
+        <text x="20" y="360" fill="#ff5f56"> Considere extrair a lógica de banco de dados para um módulo separado.</text>
+        <text x="20" y="380" fill="#ff5f56"> Evite variáveis globais (ex: `db_connection`).</text>
+        <text x="20" y="400" fill="#e0e0e0"></text>
+        <text x="20" y="420" fill="#ffbd2e">*4. Segurança e Bugs**</text>
+        <text x="20" y="440" fill="#ff5f56"> ⚠️ **ATENÇÃO:** Encontrei uma vulnerabilidade de SQL Injection na linha 42.</text>
+        <text x="20" y="460" fill="#e0e0e0">Nunca concatene strings diretamente em queries. Use parâmetros preparados.</text>
+    </g>
+</svg>

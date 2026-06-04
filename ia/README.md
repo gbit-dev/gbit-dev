@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
+![Demonstração do AI Code Reviewer](demo.svg)
+
 Um agente inteligente de linha de comando (CLI) construído em Python que utiliza o modelo **Google Gemini 1.5 Pro** para atuar como um Engenheiro de Software Sênior. 
 
 Você passa um arquivo de código para ele, e ele faz uma análise de Clean Code, segurança e possíveis refatorações em segundos!
