@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/main/codingg.gif?raw=true" width="100%">
 
-# 👾 Gabriel Luiz
+# 👨‍💻 Gabriel Luiz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Automation+Developer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Web+Creator+%F0%9F%8E%A8;If+it+can+be+automated%2C+it+should+be.)](https://github.com/gbit-dev)
 
@@ -44,7 +44,7 @@ const gabriel = {
 
 ---
 
-## 🧠 Know About Me
+## 🧠 About Me
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
 
