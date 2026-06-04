@@ -107,8 +107,6 @@ const gabriel = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚠️ Para ativar a snake, adicione o workflow do GitHub Actions no seu repositório. [Veja como →](https://github.com/Platane/snk)
-
 ---
 
 ## 🚀 Top Projects
