@@ -87,7 +87,7 @@ const gabriel = {
 | ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gbit-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=7B2CBF&bg_color=ffffff&title_color=7B2CBF&icon_color=7B2CBF&text_color=24292f&cache_seconds=1800) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&langs_count=8&theme=default&border_color=7B2CBF&bg_color=ffffff&title_color=7B2CBF&text_color=24292f&cache_seconds=1800) |
 |---|---|
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gbit-dev&theme=default&border=7B2CBF&ring=7B2CBF&fire=fd7e14&currStreakLabel=7B2CBF&dates=576061&background=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=default&border=7B2CBF&ring=7B2CBF&fire=fd7e14&currStreakLabel=7B2CBF&dates=576061&background=ffffff)
 
 </div>
 
