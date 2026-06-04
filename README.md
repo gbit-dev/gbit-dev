@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/main/codingg.gif?raw=true" width="100%">
 
-# 👾 Gabriel Luiz
+# 👨‍💻 Gabriel Luiz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Automation+Developer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Web+Creator+%F0%9F%8E%A8;If+it+can+be+automated%2C+it+should+be.)](https://github.com/gbit-dev)
 
@@ -44,13 +44,13 @@ const gabriel = {
 
 ---
 
-## 🧠 Know About Me
+## 🧠 About Me
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
 
-👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀
+👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 
 
-⚡ Quando não estou construindo fluxos no **n8n** ou desenvolvendo scripts em **Python**, estou explorando o potencial da IA generativa e do design moderno. Sempre em busca de projetos que me desafiem a aprender e crescer. 🌟
+⚡ Quando não estou construindo fluxos no **n8n** ou desenvolvendo scripts em **Python**, estou explorando o potencial da IA generativa e do design moderno. Sempre em busca de projetos que me desafiem a aprender e crescer. 
 
 ---
 
@@ -107,8 +107,6 @@ const gabriel = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚠️ Para ativar a snake, adicione o workflow do GitHub Actions no seu repositório. [Veja como →](https://github.com/Platane/snk)
-
 ---
 
 ## 🚀 Top Projects
@@ -158,8 +156,3 @@ const gabriel = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
-  <p>💜 Every commit is a small apology to my future self 💜</p>
-</div>
