@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/main/codingg.gif?raw=true" width="100%">
+<img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
 
-# 👨‍💻 Gabriel Luiz
+# 👾 Gabriel Luiz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Automation+Developer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Web+Creator+%F0%9F%8E%A8;If+it+can+be+automated%2C+it+should+be.)](https://github.com/gbit-dev)
 
@@ -44,13 +44,13 @@ const gabriel = {
 
 ---
 
-## 🧠 About Me
+## 🧠 Know About Me
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
 
-👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 
+👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀
 
-⚡ Quando não estou construindo fluxos no **n8n** ou desenvolvendo scripts em **Python**, estou explorando o potencial da IA generativa e do design moderno. Sempre em busca de projetos que me desafiem a aprender e crescer. 
+⚡ Quando não estou construindo fluxos no **n8n** ou desenvolvendo scripts em **Python**, estou explorando o potencial da IA generativa e do design moderno. Sempre em busca de projetos que me desafiem a aprender e crescer. 🌟
 
 ---
 
@@ -87,7 +87,7 @@ const gabriel = {
 | ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gbit-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=7B2CBF&bg_color=ffffff&title_color=7B2CBF&icon_color=7B2CBF&text_color=24292f&cache_seconds=1800) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbit-dev&layout=compact&langs_count=8&theme=default&border_color=7B2CBF&bg_color=ffffff&title_color=7B2CBF&text_color=24292f&cache_seconds=1800) |
 |---|---|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=default&border=7B2CBF&ring=7B2CBF&fire=fd7e14&currStreakLabel=7B2CBF&dates=576061&background=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=gbit-dev&theme=default&border=7B2CBF&ring=7B2CBF&fire=fd7e14&currStreakLabel=7B2CBF&dates=576061&background=ffffff)
 
 </div>
 
@@ -107,6 +107,8 @@ const gabriel = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
+> ⚠️ Para ativar a snake, adicione o workflow do GitHub Actions no seu repositório. [Veja como →](https://github.com/Platane/snk)
+
 ---
 
 ## 🚀 Top Projects
@@ -116,15 +118,15 @@ const gabriel = {
     <td width="33%" align="center">
       <h4>⚙️ Automação</h4>
       <p>Fluxos, integrações e experimentos com n8n e APIs.</p>
-      <a href="https://github.com/gbit-dev/gbit-dev/tree/main/automacao">
-        <img src="https://img.shields.io/badge/Ver%20Projetos-7B2CBF?style=flat-square&logo=github&logoColor=white" />
+      <a href="https://github.com/gbit-dev/gabrielluizsf">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-7B2CBF?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="33%" align="center">
       <h4>🤖 IA</h4>
       <p>Estudos e projetos com Python, LLMs e agentes inteligentes.</p>
-      <a href="https://github.com/gbit-dev/gbit-dev/tree/main/ia">
-        <img src="https://img.shields.io/badge/Ver%20Projetos-7B2CBF?style=flat-square&logo=github&logoColor=white" />
+      <a href="https://github.com/gbit-dev/gabrielluizsf">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-7B2CBF?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="33%" align="center">
@@ -156,3 +158,8 @@ const gabriel = {
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+  <p>💜 Every commit is a small apology to my future self 💜</p>
+</div>
