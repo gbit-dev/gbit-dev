@@ -48,9 +48,9 @@ const gabriel = {
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
 
-👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 🚀
+👨‍💻 Sou um desenvolvedor focado em **automação e integração de IA**, apaixonado por criar produtos digitais que resolvem problemas reais. Acredito no poder da tecnologia e do código limpo para otimizar o mundo ao nosso redor. 
 
-⚡ Quando não estou construindo fluxos no **n8n** ou desenvolvendo scripts em **Python**, estou explorando o potencial da IA generativa e do design moderno. Sempre em busca de projetos que me desafiem a aprender e crescer. 🌟
+⚡ Quando não estou construindo fluxos no **n8n** ou desenvolvendo scripts em **Python**, estou explorando o potencial da IA generativa e do design moderno. Sempre em busca de projetos que me desafiem a aprender e crescer. 
 
 ---
 
