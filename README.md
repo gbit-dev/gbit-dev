@@ -23,11 +23,11 @@
 ```javascript
 const gabriel = {
   pronouns: "He/Him",
-  location: "Brazil 🇧🇷",
+  location: "Portugal 🇵🇹,
   role: "Automation Developer | AI Enthusiast | Web Creator",
   currently: {
     working: "Automation & AI Integration",
-    learning: ["n8n", "Python", "LLMs", "React"],
+    learning: ["n8n", "Python", "JavaScript", "React"],
   },
   passions: ["Automation", "AI Agents", "Clean Code", "Problem Solving"],
   funFact: "I automate everything except my sleep schedule 😴",
