@@ -13,9 +13,6 @@
 </div>
 
 ---
-
-## ✨ Click here to expand magic
-
 <table>
 <tr>
 <td>
