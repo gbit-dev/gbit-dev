@@ -145,7 +145,7 @@ const gabriel = {
 <div align="center">
   <h3>Contrate-me ou diga Olá! 👋</h3>
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielluizprf@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielluiz.webdev@gmail.com)
 
   <br><br>
 
