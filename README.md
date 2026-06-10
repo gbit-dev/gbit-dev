@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/main/sasuke.gif?raw=true" width="60px">
+<img src="https://raw.githubusercontent.com/gbit-dev/gbit-dev/main/sasuke.gif?raw=true" width="760px">
 
 # 👨‍💻 Gabriel Luiz
 
