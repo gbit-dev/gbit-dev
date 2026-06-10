@@ -4,7 +4,7 @@
 
 # 👨‍💻 Gabriel Luiz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Automation+Developer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Web+Creator+%F0%9F%8E%A8)](https://github.com/gbit-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Automation+Developer+%F0%9F%A4%96;AI+Enthusiast+[...]
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gbit-dev&style=flat-square&color=7B2CBF)](https://github.com/gbit-dev)
 [![GitHub followers](https://img.shields.io/github/followers/gbit-dev?style=flat-square&color=7B2CBF&labelColor=1a1a2e)](https://github.com/gbit-dev)
@@ -46,9 +46,9 @@ const gabriel = {
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
 
-👨‍💻 I'm a developer focused on **automation and AI integration**, passionate about creating digital products that solve real problems. I believe in the power of technology and clean code to transform ideas into reality.
+👨‍💻 I'm a developer focused on **automation and AI integration**, passionate about creating digital products that solve real problems. I believe in the power of technology and clean code to tr[...]
 
-⚡ When I'm not building workflows in **n8n** or developing scripts in **Python**, I'm exploring the potential of generative AI and modern design. Always looking for projects that challenge me and allow me to push the boundaries of what's possible with technology.
+⚡ When I'm not building workflows in **n8n** or developing scripts in **Python**, I'm exploring the potential of generative AI and modern design. Always looking for projects that challenge me and al[...]
 
 ---
 
@@ -78,19 +78,25 @@ const gabriel = {
 
 ---
 
+## 💡 Code Philosophy
+
+> *"If it can be automated, it should be automated"*
+
 ```javascript
-if (brain!=empty) {
-  keepCoding();
+if (brain != empty) {
+  keepCoding();        // 🧠 Always learning & improving
 } else {
-  orderCoffe();
+  orderCoffe();        // ☕ Recharge & repeat
 }
 ```
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gbit-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=7B2CBF&bg_color=ffffff&title_color=7B2CBF&text_color=000000)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gbit-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=7B2CBF&bg_color=ffffff&ti[...]
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbit-dev&theme=default&border=7B2CBF&ring=7B2CBF&fire=fd7e14&currStreakLabel=7B2CBF&dates=576061&background=ffffff)
 
@@ -100,7 +106,7 @@ if (brain!=empty) {
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gbit-dev&bg_color=ffffff&color=7B2CBF&line=1f883d&point=24292f&area=true&hide_border=true)](https://github.com/gbit-dev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gbit-dev&bg_color=ffffff&color=7B2CBF&line=1f883d&point=24292f&area=true&hide_border=true)](https://github.com/gb[...]
 
 ---
 
