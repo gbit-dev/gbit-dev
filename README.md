@@ -77,19 +77,6 @@ const gabriel = {
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)](https://gsap.com)
 
 ---
-
-## 💡 Code Philosophy
-
-> *"If it can be automated, it should be automated"*
-
-```javascript
-if (brain != empty) {
-  keepCoding();        // 🧠 Always learning & improving
-} else {
-  orderCoffe();        // ☕ Recharge & repeat
-}
-```
-
 ---
 
 ## 📊 GitHub Stats
