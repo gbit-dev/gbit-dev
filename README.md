@@ -78,6 +78,14 @@ const gabriel = {
 
 ---
 
+```javascript
+if (brain!=empty) {
+  keepCoding();
+} else {
+  orderCoffe();
+}
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
