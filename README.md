@@ -1,5 +1,5 @@
 <div align="center">
-# 👨‍💻 Gabriel Luiz
+👨‍💻 Gabriel Luiz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Automation+Developer+%F0%9F%A4%96;AI+Enthusiast+%5B...%5D)](https://github.com/gbit-dev)
 
