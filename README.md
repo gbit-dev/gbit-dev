@@ -153,7 +153,7 @@ const gabriel = {
 
 <h3>Hire me or just say Hi! 👋</h3>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielluiz.webdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieluizpinto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-luiz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gb7kkk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbit-dev)
